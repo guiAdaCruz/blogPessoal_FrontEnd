@@ -2,8 +2,12 @@
     background-image: url('https://i.imgur.com/w3d95jN.jpg');
  
     min-height: 695px;
+    height: 837px;
 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.mt-form{
+    margin-top: 50px;
 }
